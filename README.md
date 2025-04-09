@@ -30,6 +30,12 @@ I'm a **Junior DevOps Engineer** with a passion for **automation, cloud infrastr
 
 
 ## 🛠️ Technical Skills
+- **Cloud & Infrastructure:** Kubernetes, Docker, AWS, Terraform, VMware, Oracle Cloud
+- **Automation & CI/CD:** Ansible, Jenkins, GitLab, ArgoCD
+- **Networking & Security:** CCNA, CCNP, Network Security
+- **Operating Systems:** Linux Administration, Windows Server
+- **Scripting & Development:** Bash, Python, SQL, PL/SQL
+- **Web Servers & Databases:** Apache, Nginx, Oracle DB, RMAN Backup & Recovery
 <p align="center">
 <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">  
 <img title="Ansible" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ansible/ansible.png">
@@ -37,13 +43,6 @@ I'm a **Junior DevOps Engineer** with a passion for **automation, cloud infrastr
 <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 <img title="Bash" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png">  
 <p/>
-- **Cloud & Infrastructure:** Kubernetes, Docker, AWS, Terraform, VMware, Oracle Cloud
-- **Automation & CI/CD:** Ansible, Jenkins, GitLab, ArgoCD
-- **Networking & Security:** CCNA, CCNP, Network Security
-- **Operating Systems:** Linux Administration, Windows Server
-- **Scripting & Development:** Bash, Python, SQL, PL/SQL
-- **Web Servers & Databases:** Apache, Nginx, Oracle DB, RMAN Backup & Recovery
-
 ## 📫 Connect with Me
 - 📧 Email: ahmedkhamees37@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/ahmed-khamis37)
