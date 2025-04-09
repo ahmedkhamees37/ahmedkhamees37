@@ -36,13 +36,8 @@ I'm a **Junior DevOps Engineer** with a passion for **automation, cloud infrastr
 - **Operating Systems:** Linux Administration, Windows Server
 - **Scripting & Development:** Bash, Python, SQL, PL/SQL
 - **Web Servers & Databases:** Apache, Nginx, Oracle DB, RMAN Backup & Recovery
-<p align="center">
-<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">  
-<img title="Ansible" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ansible/ansible.png">
-<img title="Kubernetes" alt="kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png">
-<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-<img title="Bash" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png">  
-<p/>
+
+
 ## 📫 Connect with Me
 - 📧 Email: ahmedkhamees37@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/ahmed-khamis37)
