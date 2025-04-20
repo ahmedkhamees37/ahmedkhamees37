@@ -21,7 +21,7 @@ I'm a **Junior DevOps Engineer** with a passion for **automation, cloud infrastr
 
 ## 🏆 Certifications
 - **Red Hat Certified System Administrator (RHCSA)** (2025-2028)
-- **AWS Certified Cloud Practitioner (In Progress)**
+- **AWS Certified Cloud Practitioner (2025-2028)**
 - **AWS Certified Solutions Architect – Associate (In Progress)**
 - **Oracle Cloud Infrastructure Associate (2025)**
 - **CCNA, CCNP, Network Security (NTI)**
