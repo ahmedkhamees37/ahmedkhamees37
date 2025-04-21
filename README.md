@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ahmedkhamees37/ahmedkhamees37/blob/main/assets/devops-banner.gif" alt="DevOps banner" />
-</p>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/3o7TKtq5fCqvOeVk5O/giphy.gif" width="40" alt="Waving Hand" />
   Hi 👋, I'm Ahmed Khamis Hassan Mohamed
@@ -19,9 +15,6 @@ I specialize in optimizing infrastructure, streamlining deployments, and ensurin
 
 **Focus Areas:** Kubernetes | Docker | AWS | Terraform | Ansible | Jenkins
 
-<p align="center">
-  <img src="https://media.giphy.com/media/4FQMuOKR6z4s0/giphy.gif" width="200" />
-</p>
 
 ---
 
