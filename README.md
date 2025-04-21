@@ -12,21 +12,6 @@
 
 ---
 
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github.com/ahmedkhamees37/ahmedkhamees37/blob/main/assets/devops-banner.gif" alt="DevOps banner" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Ahmed Khamis Hassan Mohamed</h1>
-<h3 align="center">🚀 Junior DevOps Engineer | Cloud & Automation Enthusiast</h3>
-
----
-
 ## 🧑‍💻 About Me
 
 I'm a **Junior DevOps Engineer** with a passion for **automation, cloud infrastructure, and system reliability**.  
