@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7TKtq5fCqvOeVk5O/giphy.gif" width="40" alt="Waving Hand" />
+
   Hi 👋, I'm Ahmed Khamis Hassan Mohamed
 </h1>
 <h3 align="center">
