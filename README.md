@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Ahmed Khamis Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-# Hi there, I'm Ahmed Khamis Hassan Mohamed! 👋
+
+# Hi there, I'm Ahmed Khamis Hassan Mohamed! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ## 🚀 About Me
 I'm a **Junior DevOps Engineer** with a passion for **automation, cloud infrastructure, and system reliability**. I specialize in optimizing infrastructure, streamlining deployments, and ensuring high availability of managed services. With strong expertise in **Kubernetes, Docker, AWS, Terraform, Ansible, and Jenkins**, I aim to build scalable and efficient systems.
