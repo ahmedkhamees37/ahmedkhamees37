@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ahmedkhamees37/ahmedkhamees37/blob/main/assets/devops-banner.gif" alt="devops banner" />
+  <img src="https://github.com/ahmedkhamees37/ahmedkhamees37/blob/main/assets/devops-banner.gif" alt="DevOps banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Khamis Hassan Mohamed</h1>
@@ -13,6 +13,10 @@ I'm a **Junior DevOps Engineer** with a passion for **automation, cloud infrastr
 I specialize in optimizing infrastructure, streamlining deployments, and ensuring high availability of managed services.
 
 **Focus Areas:** Kubernetes | Docker | AWS | Terraform | Ansible | Jenkins
+
+<p align="center">
+  <img src="https://media.giphy.com/media/4FQMuOKR6z4s0/giphy.gif" width="200" />
+</p>
 
 ---
 
@@ -32,6 +36,10 @@ I specialize in optimizing infrastructure, streamlining deployments, and ensurin
   <img src="https://skillicons.dev/icons?i=bash,python,aws,docker,kubernetes,terraform,ansible,jenkins,git,linux,nginx,apache,vscode,github,gitlab" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -47,22 +55,14 @@ I specialize in optimizing infrastructure, streamlining deployments, and ensurin
 
 ---
 
-## 🐍 Snake Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedkhamees37/ahmedkhamees37/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
 ## 🏆 Certifications
 
-- ✅ RHCSA – Red Hat Certified System Administrator *(2025–2028)*
-- ✅ AWS Certified Cloud Practitioner *(2025–2028)*
-- 🏗️ AWS Certified Solutions Architect – Associate *(In Progress)*
-- ✅ OCI Foundations + AI Associate *(2025)*
-- ✅ Huawei HCCDA
-- ✅ CCNA, CCNP, Network Security
+- ✅ **Red Hat Certified System Administrator (RHCSA)** *(2025–2028)*
+- ✅ **AWS Certified Cloud Practitioner** *(2025–2028)*
+- 🏗️ **AWS Certified Solutions Architect – Associate** *(In Progress)*
+- ✅ **Oracle Cloud Infrastructure (Foundations & AI Associate)** *(2025)*
+- ✅ **Huawei Certified Cloud Developer Associate (HCCDA)**
+- ✅ **CCNA, CCNP, Network Security**
 
 ---
 
@@ -75,6 +75,14 @@ I specialize in optimizing infrastructure, streamlining deployments, and ensurin
 ### 👥 Co-Founder, Swart Swift Tech *(2020–2022)*
 - Managed servers and optimized resource performance
 - Automated system setup reducing manual workload
+
+---
+
+## 🎯 DevOps Workflow Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" />
+</p>
 
 ---
 
