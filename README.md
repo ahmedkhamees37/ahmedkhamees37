@@ -1,6 +1,7 @@
+![linkedin](https://github.com/user-attachments/assets/d8bdb7e0-10a1-4ec1-a50c-72c146301e86)
 
 <h1 align="center">
-![WhatsApp Image 2025-04-22 at 10 00 49_2dd6a311](https://github.com/user-attachments/assets/4dedbc4c-79a7-4dd3-8d3b-dc02ba5fc73f)
+![linkedin](https://github.com/user-attachments/assets/8ff6ecbd-d763-44d3-bc8c-4db578dc2936)
 
   Hi 👋, I'm Ahmed Khamis Hassan Mohamed
 </h1>
