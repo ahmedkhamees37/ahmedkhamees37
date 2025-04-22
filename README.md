@@ -1,8 +1,6 @@
-![linkedin](https://github.com/user-attachments/assets/d8bdb7e0-10a1-4ec1-a50c-72c146301e86)
+
 
 <h1 align="center">
-![linkedin](https://github.com/user-attachments/assets/8ff6ecbd-d763-44d3-bc8c-4db578dc2936)
-
   Hi 👋, I'm Ahmed Khamis Hassan Mohamed
 </h1>
 <h3 align="center">
@@ -99,3 +97,5 @@ I specialize in optimizing infrastructure, streamlining deployments, and ensurin
 ---
 
 <p align="center">🚀 Always open to new challenges and collaborations! Let's build the future, one container at a time 🐳</p>
+
+![linkedin](https://github.com/user-attachments/assets/d8bdb7e0-10a1-4ec1-a50c-72c146301e86)
