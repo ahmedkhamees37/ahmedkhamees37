@@ -3,9 +3,18 @@
 <h1 align="center">
   Hi 👋, I'm Ahmed Khamis Hassan Mohamed
 </h1>
-<h3 align="center">
-  🚀 Junior DevOps Engineer | Cloud & Automation Enthusiast
+<h3 align="left">
+  Junior DevOps Engineer | Cloud & Kubernetes Enthusiast | Automation Advocate
 </h3>
+
+<!-- Typing SVG -->
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&width=435&lines=Adding+Value+Every+Day;Learning+Something+New;Kubernetes+%26+Cloud+Enthusiast&font=Fira%20Code&size=22&color=00ff00&vCenter=true">
+  </a>
+</p>
+
+<img width="300" align="right" src="https://c.tenor.com/2y7LXWpU1zAAAAAM/devops-automation.gif">
 
 ---
 
