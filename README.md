@@ -1,8 +1,8 @@
-
-
-<h1 align="center">
-  Hi 👋, I'm Ahmed Khamis Hassan Mohamed
+<h1 align="left">
+  Hi, I'm Ahmed Khamis Hassan 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+
 <h3 align="left">
   Junior DevOps Engineer | Cloud & Kubernetes Enthusiast | Automation Advocate
 </h3>
@@ -15,6 +15,7 @@
 </p>
 
 <img width="300" align="right" src="https://c.tenor.com/2y7LXWpU1zAAAAAM/devops-automation.gif">
+
 
 
 
